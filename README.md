@@ -9,6 +9,8 @@ A Flask and Socket.IO web server that connects to a vehicle's onboard diagnostic
 
 ---
 
+![dashboard photo](image.png)
+
 ## Features
 
 * **OBD-II Data Retrieval**: Interfaces with the ECU via the `python-obd` library over a network socket (IP/Port).
