@@ -39,7 +39,7 @@ A Flask and Socket.IO web server that connects to a vehicle's onboard diagnostic
 
 ## Prerequisites
 
-* **Python**: Version 3.8 (I think? There's a limitation on the Python version that can be used because of an architectural change in newer python versions.)
+* **Python**: Version 3.8 (I think? There's a limitation on the Python version that can be used because of an architectural change in newer python versions being incompatible with the python-OBD-wifi repo.)
 
 
 * **OBD-II Adapter**: A Wi-Fi/Ethernet OBD-II adapter connected to the target vehicle.
